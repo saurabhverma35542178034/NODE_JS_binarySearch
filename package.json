@@ -1,0 +1,16 @@
+{
+  "name": "node_js_packageproject_upload1",
+  "version": "1.0.2",
+  "description": "Geekster Project_1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "NPM",
+    "Project"
+  ],
+  "author": "Saurabh Verma",
+  "license": "ISC"
+}
