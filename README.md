@@ -10,5 +10,4 @@ A simple binary search function for finding elements in a sorted array.
 
 You can install the package using npm:
 
-```bash
-npm install binary-search
+
